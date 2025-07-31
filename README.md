@@ -22,6 +22,6 @@ All credit for the original content and structure goes to the official tutor. Th
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/DavorPavits/reinforcement-learning-tutorial.git
+git clone https://github.com/DavorPavits/Snake-Agent.git
 cd reinforcement-learning-tutorial
 pip install -r requirements.txt
